@@ -24,7 +24,7 @@ const Hero = () => {
             that inspire <span className="inline-block w-8 sm:w-12 md:w-28 h-[2px] bg-white ml-2 md:ml-4 align-middle relative md:-top-2 -top-1 rounded-full"></span>
           </h1>
           <p className="mt-4 sm:mt-6 text-base sm:text-lg md:text-xl text-gray-200 max-w-2xl leading-relaxed mx-auto md:mx-0">
-            We design functional and inviting interiors with precision to bring your vision to life through our expertise in real estate solutions. From initial concept to final execution, our dedicated team ensures every detail perfectly matches your unique style and requirements.
+            As one of the leading choices for general contractors in the USA, we deliver the best contractor solutions and precision construction estimating services to bring your vision to life. From initial cost takeoff to final project execution, our dedicated team ensures every detail perfectly matches your unique requirements.
           </p>
           <div className="mt-8 sm:mt-10 flex flex-wrap gap-4 sm:gap-6 justify-center md:justify-start items-center">
             <a
