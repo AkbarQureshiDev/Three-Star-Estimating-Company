@@ -32,7 +32,7 @@ const Logo = () => (
     <motion.img
       src={logoImg}
       alt="3 Star Estimating Logo"
-      className="h-12 md:h-16 w-auto object-contain"
+      className="h-16 md:h-20 w-auto object-contain brightness-0 invert"
       initial={{ opacity: 0, x: -20 }}
       animate={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.5 }}

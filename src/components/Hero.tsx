@@ -9,6 +9,8 @@ const Hero = () => {
         className="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat md:hidden"
         style={{ backgroundImage: `url(${mobileBg})` }}
       />
+      {/* Mobile dark overlay */}
+      <div className="absolute inset-0 bg-black/40 md:hidden" />
       <div 
         className="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat hidden md:block"
         style={{ backgroundImage: `url(${desktopBg})` }}

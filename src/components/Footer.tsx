@@ -16,7 +16,7 @@ export default function Footer() {
       <img
         src={logoImg}
         alt="Three Star Estimating Logo"
-        className="h-14 sm:h-20 object-contain brightness-0 invert"
+        className="h-20 sm:h-24 object-contain brightness-0 invert"
       />
 
       {/* Tagline */}
