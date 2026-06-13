@@ -8,6 +8,7 @@ import Values from "../components/Values";
 import Services from "../components/Services";
 import Projects from "../components/Projects";
 import HowItWorks from "../components/HowItWorks";
+import FAQ from "../components/FAQ";
 import GetInTouch from "../components/GetInTouch";
 import Location from "../components/Location";
 import Footer from "../components/Footer";
@@ -48,6 +49,7 @@ const HomePage = () => {
       <Services />
       <Projects />
       <HowItWorks />
+      <FAQ />
       <GetInTouch />
       <Location />
       <Footer />

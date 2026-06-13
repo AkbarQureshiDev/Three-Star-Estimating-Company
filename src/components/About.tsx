@@ -108,14 +108,14 @@ const About = () => {
       >
         <p>
           Founded in 1990, Three Star Estimating has spent over three decades delivering
-          precise, dependable cost estimates for construction projects across residential,
+          precise, dependable cost estimates for the best general contractors and builders across residential,
           commercial, industrial, and healthcare sectors. Our team of certified estimators
           combines deep industry knowledge with the latest digital tools to ensure every
           bid is competitive and every budget is accurate.
         </p>
         <p>
           We understand that a reliable estimate is the foundation of a successful project.
-          That's why we work closely with contractors, developers, and project owners to
+          That's why we work closely with the best contractors, developers, and project owners in the USA to
           provide detailed takeoffs, material pricing, and labor cost analysis — giving
           you the clarity and confidence to move forward.
         </p>
